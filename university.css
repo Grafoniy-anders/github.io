@@ -1,0 +1,20 @@
+.table {
+   border-collapse: separate;
+   border-spacing: 2px;
+}
+.table thead th {
+	font-weight: bold;
+	text-align: center;
+	border-radius: 8px;
+	padding: 10px 15px;
+	background: #929292;
+	font-size: 14px;
+}
+.table tbody td {
+	font-weight: bold;
+	text-align: left;
+	border-radius: 8px;
+	padding: 10px 15px;
+	background: #7F978F;
+	font-size: 16px;
+}
